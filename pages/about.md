@@ -13,6 +13,6 @@ title: 关于我
 
 ## 联系我
 
-- Telegram&nbsp;&nbsp;&nbsp;&nbsp;:forsummer 
+- Telegram:forsummer 
 
-- Email&nbsp;: [bii@live.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp&nbsp;: [bii@live.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
