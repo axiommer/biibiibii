@@ -15,4 +15,4 @@ title: 关于我
 
 - Telegram:forsummer 
 
-- Email&nbsp;&nbsp;: [bii@live.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [bii@live.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
